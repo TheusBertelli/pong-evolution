@@ -203,9 +203,9 @@ function getPaddleSizes() {
 
 function processarInteligenciaArtificial() {
     let reactionDelay = 0; let errorMargin = 0;   
-    if(gameMode === 'facil'){ reactionDelay = 45; aiSpeed = 3.6; errorMargin = 85; } 
-    else if(gameMode === 'medio'){ reactionDelay = 22; aiSpeed = 4.6; errorMargin = 35; }
-    else if(gameMode === 'dificil'){ reactionDelay = 4; aiSpeed = 6.2; errorMargin = 4; }
+    if(gameMode === 'facil'){ reactionDelay = 45; aiSpeed = 3.6; errorMargin = 135; } 
+    else if(gameMode === 'medio'){ reactionDelay = 22; aiSpeed = 3.6; errorMargin = 100; }
+    else if(gameMode === 'dificil'){ reactionDelay = 4; aiSpeed = 3.6; errorMargin = 65; }
 
     if (ballVX > 0) { 
         if (aiReactionTimer <= 0) {
