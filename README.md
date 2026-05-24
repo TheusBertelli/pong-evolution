@@ -9,7 +9,6 @@ Eu criei esse projeto para colocar em prática conceitos de lógica de programa�
 Além do modo clássico (PvP ou contra a Máquina em 3 dificuldades), adicionei:
 **Orbes de Caos:** Esferas surgem no meio da tela. Acertá-las concede *Buffs* (como resetar cooldowns ou super velocidade) ou *Debuffs* (encolher a raquete do oponente).
 **Zona de Colapso:** Um gás tóxico começa a fechar o eixo Y da arena progressivamente, encurtando o tempo de reação e deixando os rebotes mortais.
-**Trincheira Tática:** Cada jogador possui uma barreira de escudos. É preciso usar a bola para quebrar "pixels" da defesa inimiga e encontrar uma brecha para o gol.
 
 ## Habilidades Especiais
 **Dash (E / Seta Esq):** Teleporta a raquete instantaneamente para a linha da bola. Tem um cooldown longo, use para salvar pontos perdidos.
